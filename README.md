@@ -1,4 +1,4 @@
-# 
+<b> I am actively engaged in traversing DataCamp pathways, immersing myself in the intricacies of data analysis, engineering, science, and machine learning. My commitment to honing these skills aligns with my ultimate goals.</b>
 <hr>
 
 # Data Analyst
