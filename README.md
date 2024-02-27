@@ -1,9 +1,5 @@
 # DataCamp 
 
-## Data Analyst for SQL 
-<b>Certificate</b> <br>
-<img src ="" >
-
 
 
 
@@ -25,5 +21,7 @@ Result Scores]()
 ## Data Analysis Projects with PostgreSQL
 
 [Student's Mental Health]()
+
+<img src = 'IMG_0336.webp'>
 
 • Utilizing data from a 2018 survey at a Japanese international university, I’ve found that international students face heightened mental health challenges, notably in social connections and cultural adaptation. Using PostgreSQL, I’m analyzing student data to validate these findings and explore the role of the length of stay.
