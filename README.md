@@ -1,9 +1,10 @@
 # DataCamp 
 
 
+# Data Analyst
 
 
-## Data Analysis Projects with Python 
+##  Analysis Projects with Python 
 
 ### <b>Projects</b>
 
@@ -18,7 +19,7 @@ Result Scores]()
 
 - [Hypothesis Testing with Men's and Women's Soccer Matches]()
 
-## Data Analysis Projects with PostgreSQL
+##  Analysis Projects with PostgreSQL
 
 [Student's Mental Health]()
 
