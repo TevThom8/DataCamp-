@@ -22,4 +22,8 @@ Result Scores]()
 
 - [Hypothesis Testing with Men's and Women's Soccer Matches]()
 
-##Data Analysis Projects with Python.
+## Data Analysis Projects with PostgreSQL
+
+[Student's Mental Health]()
+
+• Utilizing data from a 2018 survey at a Japanese international university, I’ve found that international students face heightened mental health challenges, notably in social connections and cultural adaptation. Using PostgreSQL, I’m analyzing student data to validate these findings and explore the role of the length of stay.
