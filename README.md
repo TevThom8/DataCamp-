@@ -6,7 +6,7 @@
 
 ##  Analysis Projects with Python 
 
-### <b>Projects</b>
+
 
   [Investigating Netflix Movies]()
 
