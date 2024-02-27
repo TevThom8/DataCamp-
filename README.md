@@ -3,7 +3,7 @@
 
 
 
-## Data Analyst with Python 
+## Data Analysis Projects with Python 
 
 ### <b>Projects</b>
 
