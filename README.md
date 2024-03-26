@@ -24,7 +24,7 @@ Result Scores]()
 
 <b>Analysis Projects with PostgreSQL</b>
 
-[Student's Mental Health](https://app.datacamp.com/workspace/w/0181b066-fca3-4299-b433-4e15e9740cf9/edit)
+[Student's Mental Health]([https://app.datacamp.com/workspace/w/0181b066-fca3-4299-b433-4e15e9740cf9/edit](https://github.com/TevThom8/DataCamp-/blob/main/mental_health_pjct))
 
 <img src = 'IMG_0336.webp'>
 
