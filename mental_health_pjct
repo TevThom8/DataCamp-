@@ -1,0 +1,40 @@
+# Mental Health Impact of International University Students
+
+## Overview
+This project aims to investigate the correlation between studying in a foreign country and mental health among university students. Utilizing data collected from a Japanese international university, the study examines various factors affecting mental well-being, including social connectedness and acculturative stress.
+
+## Dataset Description
+The dataset contains information on the following fields:
+- **inter_dom**: Types of students (international or domestic)
+- **japanese_cate**: Japanese language proficiency
+- **english_cate**: English language proficiency
+- **academic**: Current academic level (undergraduate or graduate)
+- **age**: Current age of student
+- **stay**: Current length of stay in years
+- **todep**: Total score of depression (PHQ-9 test)
+- **tosc**: Total score of social connectedness (SCS test)
+- **toas**: Total score of acculturative stress (ASISS test)
+
+## Project Goal
+Using PostgreSQL, we aim to analyze the provided dataset to determine if international students experience higher levels of mental health difficulties compared to the general population. Additionally, we will explore whether factors such as length of stay contribute to this phenomenon.
+
+## SQL Query
+```sql
+SELECT stay, 
+       COUNT(*) AS count_int, 
+       ROUND(AVG(todep), 2) AS average_phq, 
+       ROUND(AVG(tosc), 2) AS average_scs, 
+       ROUND(AVG(toas), 2) AS average_as
+FROM students
+GROUP BY stay
+ORDER BY stay DESC;
+
+##Results
+
+The table below presents the findings of the analysis, showcasing the relationship between length of stay and various mental health indicators among international students:
+
+<img src = ''>
+
+Based on the analysis of the provided dataset, it appears that there is a correlation between the length of stay for international university students and their mental health indicators. 
+Specifically, as the length of stay increases, there is a trend towards higher average scores for depression (average_phq) and acculturative stress (avg_as), while social connectedness (average_scs) tends to decrease slightly. 
+This suggests that longer stays in a foreign country may indeed have an impact on the mental health of international students. However, it’s essential to consider various factors and conduct further research to fully understand the relationship between studying abroad and mental health outcomes.
