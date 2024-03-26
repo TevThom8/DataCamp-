@@ -33,7 +33,7 @@ ORDER BY stay DESC;
 
 The table below presents the findings of the analysis, showcasing the relationship between length of stay and various mental health indicators among international students:
 
-<img src = ''>
+<img src = 'IMG_0548.jpeg'>
 
 Based on the analysis of the provided dataset, it appears that there is a correlation between the length of stay for international university students and their mental health indicators. 
 Specifically, as the length of stay increases, there is a trend towards higher average scores for depression (average_phq) and acculturative stress (avg_as), while social connectedness (average_scs) tends to decrease slightly. 
